@@ -16,8 +16,10 @@ Pupa is a streamlined theme designed specifically for the [NetNewsWire RSS Reade
 
 Open the following URL in your browser to add the 'Pupa' theme to NetNewsWire.
 
-```
+https://github.com/wxiach/NNWThemePupa/releases/download/v1.0.0/pupa.nnwtheme.zip
 
+```
+netnewswire://theme/add?url=https://github.com/wxiach/NNWThemePupa/releases/download/v1.0.0/pupa.nnwtheme.zip
 ```
 
 ## License
